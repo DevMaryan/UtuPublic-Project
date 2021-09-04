@@ -1,2 +1,4 @@
-![profile_followers](https://user-images.githubusercontent.com/70301391/132108560-aa46da14-9235-46ff-aefe-728404212679.png)
+
 # UtuPublic-Project
+<img src="https://i.ibb.co/5s4YnHv/utu-ss.png" alt="utu-ss" border="0">
+<img src="https://i.ibb.co/DD42whN/profile-followers.png" alt="profile-followers" border="0">
