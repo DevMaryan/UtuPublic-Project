@@ -3,7 +3,7 @@
 
 *Code is private
 </br>
-<small>On password request. Unique link is send to the user on his email address. Only with this link he can access too 'Change Password' form.</small>
+<small>On password request. Unique link is send to the user on his email address. Only with this link the user can access too 'Change Password' form.</small>
 <img src="https://i.ibb.co/dQ1kVFG/tinymce-Imp.png" alt="tinymce-Imp" border="0">
 <img src="https://i.ibb.co/8j4XcQT/adminpanel.png" alt="adminpanel" border="0">
 <img src="https://i.ibb.co/zR1hdnB/utu-settings.png" alt="utu-settings" border="0">
