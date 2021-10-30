@@ -7,7 +7,6 @@
 <img src="https://i.ibb.co/dQ1kVFG/tinymce-Imp.png" alt="tinymce-Imp" border="0">
 <img src="https://i.ibb.co/8j4XcQT/adminpanel.png" alt="adminpanel" border="0">
 <img src="https://i.ibb.co/zR1hdnB/utu-settings.png" alt="utu-settings" border="0">
-<img src="https://i.ibb.co/ts2rtS8/editprofile.png" alt="editprofile" border="0">
 <img src="https://i.ibb.co/CwR2bKD/changepwd.png" alt="changepwd" border="0">
 
 <img src="https://i.ibb.co/tL19rwt/ad.png" alt="ad" border="0">
