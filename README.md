@@ -11,7 +11,7 @@
 <img src="https://i.ibb.co/W67xs4W/05-ads.png" alt="05-ads" border="0">
 <img src="https://i.ibb.co/GTWRxGK/06-chat.png" alt="06-chat" border="0">
 <img src="https://i.ibb.co/smn2nmm/07-activities.png" alt="07-activities" border="0">
-<img src="https://i.ibb.co/RC3W7Qd/08-admin.png" alt="08-admin" border="0">
+<img src="https://i.ibb.co/W2FT8KZ/08-admin.png" alt="08-admin" border="0">
 <img src="https://i.ibb.co/nkvgJb5/09-settings.png" alt="09-settings" border="0">
 <small>On password request. Unique link is send to the user on his email address. Only with this link the user can access too 'Change Password' form.</small>
 <img src="https://i.ibb.co/dQ1kVFG/tinymce-Imp.png" alt="tinymce-Imp" border="0">
