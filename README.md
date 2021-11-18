@@ -4,7 +4,6 @@
 *Code is private
 </br>
 <img src="https://i.ibb.co/Pg5fhx7/10-repository.png" alt="10-repository" border="0">
-<img src="https://i.ibb.co/x1htHQ8/01-profile.png" alt="01-profile" border="0">
 <img src="https://i.ibb.co/wg0Jc11/02-home.png" alt="02-home" border="0">
 <img src="https://i.ibb.co/S364Bbk/03-ad.png" alt="03-ad" border="0">
 <img src="https://i.ibb.co/4ZcxcXK/04-group.png" alt="04-group" border="0">
